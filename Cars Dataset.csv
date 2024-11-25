@@ -1,0 +1,958 @@
+﻿Model,Year, Km/h ,Color,Type,Fuel,Price
+Hyundai Elantra HD,2009,"165,000",Gray,Automatic,Gasoline,"560,000"
+Hyundai Elantra,2010,"194,000",Black,Automatic,Gasoline,"600,000"
+Hyundai Elantra HD,2010,"205,000",Silver,Automatic,Gasoline,"575,000"
+Hyundai Elantra,2010,"160,000",Black,Automatic,Gasoline,"550,000"
+Hyundai Elantra,2009,"140,451",Eggplant,Automatic,Gasoline,"650,000"
+Hyundai Elantra,2009,"380,000",Black,Automatic,Gasoline,"580,000"
+Hyundai Elantra,2010,"220,000",Black,Automatic,Gasoline,"600,000"
+Hyundai Elantra,2010,"200,000",Silver,Automatic,Gasoline,"600,000"
+Hyundai Elantra,2010,"220,000",Black,Automatic,Gasoline,"570,000"
+Hyundai Elantra HD,2009,"100,000",Bronze,Automatic,Gasoline,"475,000"
+Hyundai Accent RB,2012,"138,000",Silver,Automatic,Gasoline,"540,000"
+Hyundai Accent RB,2012,"188,000",Gray,Automatic,Gasoline,"530,000"
+Hyundai Accent RB,2011,"220,000",Silver,Automatic,Gasoline,"530,000"
+Hyundai Accent RB,2011,"179,000",Silver,Automatic,Gasoline,"715,000"
+Hyundai Accent RB,2012,"125,800",Black,Automatic,Gasoline,"600,000"
+Hyundai Accent RB,2012,"135,000",Silver,Automatic,Gasoline,"525,000"
+Hyundai Accent RB,2012,"176,000",Red,Automatic,Gasoline,"550,000"
+Hyundai Accent RB,2012,"161,000",Bronze,Manual,Gasoline,"430,000"
+Hyundai Accent RB,2012,"145,000",Mocha,Automatic,Gasoline,"530,000"
+Hyundai Accent RB,2012,"270,000",Cyan,Manual,Gasoline,"420,000"
+Hyundai Accent ,2010,"280,000",Red,Automatic,Gasoline,"385,000"
+Hyundai Accent ,2010,"240,000",Veronica,Manual,Gasoline,"350,000"
+Hyundai Accent ,2010,"500,000",Silver,Manual,Gasoline,"315,000"
+Hyundai Accent ,2009,"280,000",Red,Manual,Gasoline,"415,000"
+Hyundai Accent ,2009,95000,Dark Blue,Automatic,Gasoline,"450,000"
+Hyundai Accent ,2010,"148,000",Dark Red,Automatic,Gasoline,"460,000"
+Hyundai Accent ,2010,"170,000",Silver,Automatic,Gasoline,"420,000"
+Hyundai Verna,2014,"52,000",Silver,Manual,Gasoline,"420,000"
+Hyundai Verna,2013,"260,000",Silver,Manual,Gasoline,"360,000"
+Hyundai Verna,2013,"22,500",Black,Manual,Gasoline,"340,000"
+Hyundai Verna,2014,"298,534",Silver,Manual,Gasoline,"270,000"
+Hyundai Verna,2013,"400,000",Silver,Manual,Gasoline,"360,000"
+Hyundai Verna,2013,"180,000",White,Manual,Gasoline,"270,000"
+Hyundai Verna,2014,"110,000",Silver,Manual,Gasoline,"400,000"
+Hyundai Verna,2014,"110,000",Mocha,Manual,Gasoline,"352,000"
+Hyundai Verna,2018,"95,000",Dark Red,Automatic,Gasoline,"460,000"
+Hyundai Verna,2019,"95,000",Silver,Manual,Gasoline,"595,000"
+Hyundai Verna,2018,"377,000",Gray,Manual,Gasoline,"400,000"
+Hyundai Atos,2010,"142,000",Silver,Manual,Gasoline,"310,000"
+Hyundai Atos,2011,"114,000",Dark Red,Manual,Gasoline,"285,000"
+Hyundai Atos,2010,"106,000",Silver,Manual,Gasoline,"300,000"
+Hyundai Atos,2010,"93,000",Red,Manual,Gasoline,"283,000"
+Hyundai Accent RB,2019,"105,300",Black,Automatic,Gasoline,"700,000"
+Hyundai Accent RB,2019,"46,000",Red,Automatic,Gasoline,"670,000"
+Hyundai Accent RB,2019,"150,000",Black,Automatic,Gasoline,"710,000"
+KIA Cerato,2022,"55,000",Gray,Automatic,Gasoline,"1,220,000"
+KIA Cerato,2022,"84,000",Blue,Automatic,Gasoline,"1,250,000"
+KIA Cerato,2022,"57,000",Red,Automatic,Gasoline,"1,050,000"
+KIA Cerato,2022,"54,000",Gray,Automatic,Gasoline,"1,100,000"
+KIA Cerato,2022,"56,500",Silver,Automatic,Gasoline,"1,100,000"
+KIA Cerato,2023,"20,000",Red,Automatic,Gasoline,"1,285,000"
+KIA Cerato,2022,"75,000",White,Automatic,Gasoline,"1,220,000"
+KIA Cerato,2022,"120,000",Veronica,Automatic,Gasoline,"1,050,000"
+KIA Cerato,2023,"32,000",Silver,Automatic,Gasoline,"1,300,000"
+KIA Cerato,2010,"125,000",Silver,Automatic,Gasoline,"650,000"
+KIA Cerato,2010,"163,000",Red,Automatic,Gasoline,"600,000"
+KIA Cerato,2009,"171,000",Silver,Automatic,Gasoline,"495,000"
+KIA Cerato,2010,"77,000",Black,Automatic,Gasoline,"620,000"
+KIA Cerato,2014,"99,000",Black,Automatic,Gasoline,"875,000"
+KIA Cerato,2015,"92,000",Black,Automatic,Gasoline,"885,000"
+KIA Cerato,2014,"195,000",Black,Automatic,Gasoline,"775,000"
+KIA Cerato,2015,"150,000",Veronica,Automatic,Gasoline,"780,000"
+KIA Cerato,2015,"140,000",Gray,Automatic,Gasoline,"765,000"
+KIA Cerato,2014,"140,000",Silver,Automatic,Gasoline,"685,000"
+KIA Cerato,2018,"93,000",White,Automatic,Gasoline,"885,000"
+KIA Cerato,2019,"185,000",Dark Red,Automatic,Gasoline,"880,000"
+KIA Cerato,2019,"100,000",White,Automatic,Gasoline,"955,000"
+KIA Sol,2013,"114,000",White,Automatic,Gasoline,"750,000"
+KIA Sol,2012,"320,000",Red,Automatic,Gasoline,"640,000"
+KIA Sol,2013,"90,000",Red,Automatic,Gasoline,"750,000"
+KIA Sol,2012,"228,000",Red,Automatic,Gasoline,"660,000"
+KIA Sol,2012,"200,000",Black,Automatic,Gasoline,"875,000"
+KIA Sol,2016,"100,000",Silver,Automatic,Gasoline,"900,000"
+KIA Sol,2015,"130,000",Bronze,Automatic,Gasoline,"800,000"
+KIA Sol,2016,"80,000",White,Automatic,Gasoline,"835,000"
+KIA Sol,2015,"70,000",White,Automatic,Gasoline,"965,000"
+KIA Sol,2015,"100,000",Black,Automatic,Gasoline,"850,000"
+KIA Sol,2016,"152,000",Gray,Automatic,Gasoline,"850,000"
+KIA Picanto,2010,"148,000",Blue,Automatic,Gasoline,"500,000"
+KIA Picanto,2009,"156,000",Silver,Automatic,Gasoline,"410,000"
+KIA Picanto,2010,"230,000",Black,Manual,Gasoline,"350,000"
+KIA Picanto,2010,"30,000",Bronze,Manual,Gasoline,"420,000"
+KIA Picanto,2009,"114,000",Silver,Automatic,Gasoline,"415,000"
+KIA Picanto,2009,"93,000",Silver,Automatic,Gasoline,"450,000"
+KIA Picanto,2010,"127,000",Black,Automatic,Gasoline,"450,000"
+KIA Picanto,2010,"115,000",Black,Automatic,Gasoline,"410,000"
+KIA Picanto,2015,"49,000",Silver,Automatic,Gasoline,"570,000"
+KIA Picanto,2014,"189,000",White,Automatic,Gasoline,"490,000"
+KIA Picanto,2015,"94,000",Silver,Automatic,Gasoline,"550,000"
+KIA Picanto,2014,"118,000",Silver,Automatic,Gasoline,"650,000"
+KIA Picanto,2015,"100,000",Yellow,Automatic,Gasoline,"525,000"
+KIA Rio,2019,"65,000",White,Automatic,Gasoline,"810,000"
+KIA Rio,2019,"133,000",Veronica,Automatic,Gasoline,"720,000"
+KIA Rio,2020,"79,000",Red,Automatic,Gasoline,"825,000"
+KIA K3,2017,"130,000",Black,Automatic,Gasoline,"790,000"
+KIA K3,2017,"122,000",Black,Automatic,Gasoline,"850,000"
+KIA K3,2016,"95,000",White,Automatic,Gasoline,"765,000"
+KIA K3,2016,"80,000",Petroleum,Automatic,Gasoline,"885,000"
+Nissan Qashqai,2018,"85,000",Brown,Automatic,Gasoline,"980,000"
+KIA Sporatge,2019,"65,000",Dark Grey,Automatic,Gasoline,"1,400,000"
+Hyundai Tucson Turbo GDI,2019,"103,000",Red,Automatic,Gasoline,"1,495,000"
+Skoda Octavia A8,2022,"107,000",Dark Blue,Automatic,Gasoline,"1,620,000"
+KIA Sporatge,2023,"62,000",Dark Green,Automatic,Gasoline,"1,870,000"
+Nissan Sunny,2024,"6,000",Red,Automatic,Gasoline,"780,000"
+Nissan Centra,2018,"110,000",Black,Automatic,Gasoline,"685,000"
+Nissan Sunny,2022,"65,000",Red,Automatic,Gasoline,"635,000"
+Honda City,2021,"45,000",Gray,Automatic,Gasoline,"1,000,000"
+Mercedes GLC 250,2019,"61,000",Silver,Automatic,Gasoline,"3,500,000"
+Volvo XC60,2018,"110,000",Dark Red,Automatic,Gasoline,"1,950,000"
+Peugeot 308,2016,"110,000",Silver,Automatic,Gasoline,"820,000"
+Ford Focus,2014,"198,000",Brown,Automatic,Gasoline,"540,000"
+Nissan Sunny,2020,"127,000",Gray,Automatic,Gasoline,"565,000"
+Ssang Yong Torres,2023,"4,700",Black,Automatic,Gasoline,"1,750,000"
+Chevrolet Optra,2017,"79,000",Dark Blue,Automatic,Gasoline,"520,000"
+KIA Carens,2024,"4,100",Dark Grey,Automatic,Gasoline,"1,540,000"
+Volkswagen Tiguan,2023,"23,000",Dark Blue,Automatic,Gasoline,"2,480,000"
+Chevrolet Captiva,2021,"100,000",Black,Automatic,Gasoline,"1,075,000"
+Mercedes GLC 200,2020,"49,000",Black,Automatic,Gasoline,"3,700,000"
+Mercedes E 200 AMG,2021,"25,000",Black,Automatic,Gasoline,"4,200,000"
+Hyundai Tucson Turbo GDI,2024,"3,000",Silver,Automatic,Gasoline,"2,140,000"
+Audi Q7,2021,"70,000",Silver,Automatic,Gasoline,"4,000,000"
+Opel Crossland,2022,"37,000",Black,Automatic,Gasoline,"950,000"
+Hyundai Tucson,2022,"48,000",White,Automatic,Gasoline,"1,650,000"
+Mercedes E 200,2021,"35,000",Black,Automatic,Gasoline,"3,700,000"
+Renault Megane,2017,"120,000",Black,Automatic,Gasoline,"735,000"
+Nissan Sunny,2020,"98,000",Silver,Automatic,Gasoline,"565,000"
+Toyota Corolla,2021,"141,000",Black,Automatic,Gasoline,"1,250,000"
+Jeep Renegade,2017,"122,000",White,Automatic,Gasoline,"970,000"
+Chevrolet Aveo,2013,"55,000",Dark Grey,Manual,Gasoline,"450,000"
+Hyundai Creta SU2,2021,"89,000",White,Automatic,Gasoline,"1,225,000"
+Chery Tiggo 7,2022,"15,000",Dark Grey,Automatic,Gasoline,"960,000"
+Mercedes C 180,2011,"210,000",Dark Grey,Automatic,Gasoline,"1,250,000"
+Opel Insignia,2019,"86,000",Silver,Automatic,Gasoline,"1,175,000"
+Peugeot 3008,2021,"50,000",White,Automatic,Gasoline,"1,750,000"
+Peugeot  508,2020,"112,000",White,Automatic,Gasoline,"1,450,000"
+Chery Arrizo 5,2024,"3,000",Red,Automatic,Gasoline,"770,000"
+Toyota Corolla,2010,"195,000",Cyan,Automatic,Gasoline,"565,000"
+Mitsubishi Xpander,2022,"200,000",Silver,Automatic,Gasoline,"900,000"
+Peugeot 3008,2021,"70,000",White,Automatic,Gasoline,"1,760,000"
+Audi Q3,2021,"100,000",Gray,Automatic,Gasoline,"2,000,000"
+Nissan Juke,2022,"55,000",Dark Red,Automatic,Gasoline,"1,200,000"
+Toyota Corolla,2020,"145,000",Silver,Automatic,Gasoline,"960,000"
+Nissan Sunny,2021,"60,000",Champange,Automatic,Gasoline,"650,000"
+Chevrolet Lanos,2015,"162,000",Dark Red,Manual,Gasoline,"355,000"
+Hyundai Elantra MD,2012,"100,000",Black,Automatic,Gasoline,"750,000"
+BMW 320,2017,"130,000",Dark Blue,Automatic,Gasoline,"1,750,000"
+Skoda Kodiaq,2024,95000,White,Automatic,Gasoline,"3,350,000"
+Audi A3,2015,"126,000",Silver,Automatic,Gasoline,"1,200,000"
+Jeep Grand Cherokee,2021,"98,000",White,Automatic,Gasoline,"3,600,000"
+Hyundai Elantra HD,2023,95000,Dark Grey,Automatic,Gasoline,"980,000"
+KIA Carens,2012,"210,000",White,Automatic,Gasoline,"700,000"
+KIA Sporatge,2023,"12,000",Silver,Automatic,Gasoline,"1,970,000"
+KIA Sorento,2023,"13,500",Silver,Automatic,Gasoline,"2,270,000"
+KIA Carnival,2024,"7,000",Black,Automatic,Gasoline,"2,990,000"
+KIA Rio,2019,"50,000",Red,Automatic,Gasoline,"850,000"
+KIA Sporatge,2023,"29,000",Silver,Automatic,Gasoline,"3,500,000"
+Fiat Tipo,2021,"70,000",Black,Automatic,Gasoline,"825,000"
+BMW 318,2016,"88,000",Mocha,Automatic,Gasoline,"1,100,000"
+Chevrolet Optra,2018,"113,000",Dark Red,Automatic,Gasoline,"465,000"
+Honda Civic,2009,"150,000",Black,Automatic,Gasoline,"650,000"
+Hyundai Elantra MD,2013,"130,000",Gold,Automatic,Gasoline,"670,000"
+Toyota Corolla,2018,"230,000",Dark Red,Automatic,Gasoline,"880,000"
+Nissan Juke,2022,"60,000",White,Automatic,Gasoline,"1,070,000"
+Nissan Centra,2021,"86,000",Silver,Automatic,Gasoline,"790,000"
+Audi Q7,2022,"34,500",Silver,Automatic,Gasoline,"4,800,000"
+Opel Grandland,2022,"50,000",Red,Automatic,Gasoline,"1,550,000"
+Mercedes C 180,2022,"18,000",White,Automatic,Gasoline,"855,000"
+Seat Ibiza,2011,"200,000",Gray,Automatic,Gasoline,"450,000"
+Mercedes CLE 200,2024,95000,Black,Automatic,Gasoline,"4,550,000"
+Mercedes CLA 200,2024,95000,White,Automatic,Gasoline,"3,350,000"
+BMW X1,2024,95000,Blue,Automatic,Gasoline,"3,300,000"
+Audi Q3,2024,95000,Black,Automatic,Gasoline,"2,550,000"
+Jeep Grand Cherokee,2012,"210,000",White,Automatic,Gasoline,"1,250,000"
+BMW 318,2011,"340,000",Dark Red,Automatic,Gasoline,"850,000"
+Ford Focus,2012,"200,000",Black,Automatic,Gasoline,"490,000"
+KIA Sporatge,2013,"145,000",Orange,Automatic,Gasoline,"890,000"
+Daewoo Lanos,2009,"200,000",Dark Red,Manual,Gasoline,"220,000"
+KIA Rio,2013,"133,000",Red,Automatic,Gasoline,"610,000"
+Chevrolet Optra,2019,"102,000",Bronze,Automatic,Gasoline,"550,000"
+Skoda Kodiaq,2021,"33,700",Gray,Automatic,Gasoline,"2,500,000"
+Nissan Centra,2021,"75,000",Red,Automatic,Gasoline,"950,000"
+Renault Kadjar,2021,"80,000",White,Automatic,Gasoline,"1,400,000"
+Speranza Tiggo,2010,"130,000",Silver,Automatic,Gasoline,"390,000"
+Chevrolet Optra,2023,"43,000",Dark Blue,Automatic,Gasoline,"650,000"
+Chevrolet Optra,2022,"87,000",Silver,Automatic,Gasoline,"645,000"
+KIA Carens,2024,"4,100",Dark Grey,Automatic,Gasoline,"1,540,000"
+Chevrolet Optra,2020,"120,000",Dark Blue,Automatic,Gasoline,"475,000"
+KIA Carens,2012,"210,000",White,Automatic,Gasoline,"700,000"
+Hyundai Elantra,2016,"130,000",Silver,Automatic,Gasoline,"740,000"
+Hyundai Matrix,2010,"158,000",Silver,Automatic,Gasoline,"575,000"
+Opel Crossland,2020,"98,000",Dark Blue,Automatic,Gasoline,"850,000"
+Mahindra Scorpio,2010,"143,000",Black,Automatic,Gasoline,"325,000"
+Renault Duster,2019,"95,000",White,Automatic,Gasoline,"840,000"
+Skoda Kodiaq,2019,"109,000",White,Automatic,Gasoline,"2,050,000"
+Skoda Kodiaq,2024,30,Gray,Automatic,Gasoline,"2,950,000"
+Hyundai Matrix,2009,"102,000",Silver,Automatic,Gasoline,"375,000"
+Chevrolet Optra,2021,"21,000",Silver,Automatic,Gasoline,"700,000"
+Skoda Octavia A8,2021,"34,000",Dark Grey,Automatic,Gasoline,"1,600,000"
+Speranza A113,2012,"197,000",Dark Red,Manual,Gasoline,"240,000"
+Mercedes GLS ,2021,"65,000",White,Automatic,Gasoline,"7,000,000"
+Renault Sandero Step Way,2016,"157,000",Black,Automatic,Gasoline,"480,000"
+KIA Sporatge,2024,"23,000",Gray,Automatic,Gasoline,"1,900,000"
+Hyundai Accent RB,2016,"190,000",Blue,Automatic,Gasoline,"580,000"
+Geely Cool Ray,2024,"22,000",Red,Automatic,Gasoline,"1,275,000"
+Mitsubishi Lancer EX Shark,2016,"145,000",Silver,Automatic,Gasoline,"750,000"
+Mitsubishi Lancer EX Shark,2015,"195,000",Silver,Automatic,Gasoline,"640,000"
+BYD F3,2013,"155,000",Silver,Manual,Gasoline,"300,000"
+BYD F3,2013,"500,000",White,Manual,Gasoline,"255,000"
+Hyundai Elantra MD,2013,"130,000",Gold,Automatic,Gasoline,"670,000"
+Geely Emgrand 7,2015,"175,000",Green,Manual,Gasoline,"325,000"
+Mini Cooper,2024,"28,000",Red,Automatic,Gasoline,"2,300,000"
+Chevrolet Optra,2022,"103,000",Bronze,Automatic,Gasoline,"650,000"
+KIA Sporatge,2021,"65,000",Black,Automatic,Gasoline,"1,580,000"
+Hyundai Tucson Turbo GDI,2019,"103,000",Gray,Automatic,Gasoline,"1,370,000"
+Chevrolet Malibu,2019,"119,000",White,Automatic,Gasoline,"1,180,000"
+KIA Cerato,2016,"135,000",Petroleum,Automatic,Gasoline,"810,000"
+Chevrolet Lanos,2010,"126,000",Dark Grey,Manual,Gasoline,"250,000"
+KIA Carnival,2013,"224,000",Silver,Automatic,Gasoline,"880,000"
+Toyota Auris,2013,"203,000",Black,Automatic,Gasoline,"600,000"
+Chery Tiggo 7 Pro,2023,50,Red,Automatic,Gasoline,"1,370,000"
+Haval H6,2022,"50,000",White,Automatic,Gasoline,"1,400,000"
+Chevrolet Aveo,2014,"124,000",Silver,Automatic,Gasoline,"400,000"
+KIA Xceed,2017,"180,000",Bronze,Automatic,Gasoline,"640,000"
+Renault Kadjar,2017,"130,000",White,Automatic,Gasoline,"895,000"
+Peugeot 508,2020,"112,000",White,Automatic,Gasoline,"1,450,000"
+Chevrolet Optra,2011,"175,000",Gray,Automatic,Gasoline,"385,000"
+Haval Jolion,2022,"57,000",Gray,Automatic,Gasoline,"1,150,000"
+Nissan Sunny,2017,"168,000",Silver,Automatic,Gasoline,"530,000"
+Honda City,2020,"140,000",Silver,Automatic,Gasoline,"890,000"
+Zotye T600,2019,"92,000",White,Automatic,Gasoline,"715,000"
+Alfa Romeo Stelvio,2024,"20,000",White,Automatic,Gasoline,"3,600,000"
+Biac M60,2020,"249,000",White,Automatic,Gasoline,"825,000"
+Volkswagen Tiguan,2024,1,Silver,Automatic,Gasoline,"2,700,000"
+Hyundai Elantra AD,2025,10,Blue,Automatic,Gasoline,"1,095,000"
+MG MG 4,2024,10,Black,Automatic,Gasoline,"1,625,000"
+Lada Granta,2021,"64,000",Red,Manual,Gasoline,"950,000"
+Skoda Octavia A7,2014,"194,000",Blue,Automatic,Gasoline,"820,000"
+KIA Sporatge,2023,"13,500",Silver,Automatic,Gasoline,"2,270,000"
+Peugeot 2008,2022,"79,000",White,Automatic,Gasoline,"1,400,000"
+BMW 320,2016,"18,000",Dark Red,Automatic,Gasoline,"1,350,000"
+Hyundai Getz,2009,"30,000",Silver,Automatic,Gasoline,"620,000"
+Nissan Qashqai,2017,"140,000",Purple,Automatic,Gasoline,"795,000"
+Fiat Tipo,2020,"80,000",Bronze,Manual,Gasoline,"560,000"
+Toyota Corolla,2016,"57,000",Silver,Automatic,Gasoline,"960,000"
+Toyota Corolla,2015,"150,000",White,Automatic,Gasoline,"980,000"
+Toyota Corolla,2015,"199,000",Silver,Automatic,Gasoline,"840,000"
+Toyota Corolla,2015,"195,000",Silver,Automatic,Gasoline,"835,000"
+Chevrolet Spark,2010,"200,000",Red,Manual,Gasoline,"220,000"
+Chevrolet Spark,2009,"146,000",Blue,Manual,Gasoline,"235,000"
+Chevrolet Spark,2010,"78,000",Silver,Manual,Gasoline,"250,000"
+Mercedes C 180,2011,"210,000",Dark Grey,Automatic,Gasoline,"1,200,000"
+Mercedes C 180,2010,"159,000",Silver,Automatic,Gasoline,"1,290,000"
+Fiat Punta,2016,"175,000",Silver,Automatic,Gasoline,"500,000"
+Fiat Punta,2016,"220,000",Black,Automatic,Gasoline,"470,000"
+Fiat Punta,2016,"83,000",White,Automatic,Gasoline,"580,000"
+Renault Logan,2019,"96,000",Dark Blue,Automatic,Gasoline,"460,000"
+Renault Logan,2019,"89,000",Silver,Automatic,Gasoline,"590,000"
+Renault Logan,2018,"183,000",Red,Automatic,Gasoline,"450,000"
+Daewoo Lacetti,2009,"206,000",Silver,Automatic,Gasoline,"350,000"
+Daewoo Lacetti,2009,"278,000",Black,Automatic,Gasoline,"480,000"
+Honda City,2015,"200,000",Brown,Automatic,Gasoline,"750,000"
+Honda City,2014,"159,000",Black,Automatic,Gasoline,"650,000"
+Honda City,2014,"250,000",Black,Automatic,Gasoline,"257,000"
+Honda Accord,2022,"27,500",Red,Automatic,Gasoline,"1,900,000"
+Honda Accord,2022,"44,000",Petroleum,Automatic,Gasoline,"1,750,000"
+Nissan Tiida,2013,"155,000",Red,Automatic,Gasoline,"520,000"
+Nissan Tiida,2013,"180,000",Red,Automatic,Gasoline,"560,000"
+BMW X1,2015,"130,000",Black,Automatic,Gasoline,"985,000"
+BMW X1,2015,"126,000",Silver,Manual,Gasoline,"1,200,000"
+BMW X1,2015,"170,000",Dark Grey,Automatic,Gasoline,"1,200,000"
+KIA Grand Cerato,2022,125,White,Automatic,Gasoline,"1,149,000"
+Toyota C-HR,2017,"115,000",Silver,Automatic,Gasoline,"1,000,000"
+Nissan Juke,2022,"88,000",Silver,Automatic,Gasoline,"1,060,000"
+KIA Carens,2013,"35,000",Black,Automatic,Gasoline,"795,000"
+Hyundai Tucson,2019,"120,000",Brown,Automatic,Gasoline,"1,370,000"
+KIA Sporatge,2021,"70,000",Dark Blue,Automatic,Gasoline,"1,550,000"
+Chery Tiggo,2017,"165,000",Black,Automatic,Gasoline,"530,000"
+Nissan Qashqai,2013,"168,800",Brown,Automatic,Gasoline,"695,000"
+Mercedes E 300,2021,"8,000",Black,Automatic,Gasoline,"5,500,000"
+Nissan Sunny,2021,"70,000",Silver,Automatic,Gasoline,"620,000"
+BMW X1,2017,"120,000",Black,Automatic,Gasoline,"1,500,000"
+Audi A3,2016,"113,000",Silver,Automatic,Gasoline,"1,250,000"
+Audi A3,2015,"126,000",Silver,Automatic,Gasoline,"1,200,000"
+KIA K3,2014,"130,000",Bronze,Automatic,Gasoline,"675,000"
+KIA K3,2013,"80,000",White,Automatic,Gasoline,"495,000"
+KIA K3,2014,"243,000",Dark Grey,Automatic,Gasoline,"700,000"
+KIA Forte,2011,"107,000",White,Automatic,Gasoline,"760,000"
+KIA Forte,2010,"102,000",Gray,Automatic,Gasoline,"450,000"
+Toyota Rush,2020,"100,000",White,Automatic,Gasoline,"1,250,000"
+Toyota Rush,2020,"126,000",Bronze,Automatic,Gasoline,"1,200,000"
+Renault Kadjar,2019,"65,000",Red,Automatic,Gasoline,"1,050,000"
+Renault Kadjar,2020,"120,000",White,Automatic,Gasoline,"1,025,000"
+Fiat 500 X,2019,"70,000",Red,Automatic,Gasoline,"1,150,000"
+Fiat 500 X,2020,"87,000",Blue,Automatic,Gasoline,"1,080,000"
+Fiat 500 X,2020,"210,000",Black,Automatic,Gasoline,"1,050,000"
+Baic X3,2022,"68,000",White,Automatic,Gasoline,"720,000"
+Baic X3,2022,"34,000",Dark Blue,Automatic,Gasoline,"750,000"
+Chery Arrizo 5,2021,"66,000",Eggplant,Automatic,Gasoline,"565,000"
+Chery Arrizo 5,2020,"172,000",Silver,Automatic,Gasoline,"470,000"
+Ford Focus,2010,"193,000",Black,Automatic,Gasoline,"455,000"
+Ford Focus,2010,"350,000",Blue,Automatic,Gasoline,"470,000"
+Chery Tiggo 8 pro,2023,"6,000",White,Automatic,Gasoline,"1,350,000"
+Chery Arrizo 5,2020,"155,000",Gold,Automatic,Gasoline,"390,000"
+Fiat Tipo,2020,"57,000",Brown,Automatic,Gasoline,"870,000"
+Toyota Corolla,2024,400,Dark Blue,Automatic,Gasoline,"1,785,000"
+KIA Grand Cerato,2022,"125,000",White,Automatic,Gasoline,"1,149,000"
+KIA Sorento,2024,"7,500",White,Automatic,Gasoline,"3,350,000"
+KIA Grand Cerato,2022,"84,000",Blue,Automatic,Gasoline,"1,250,000"
+Chevrolet Aveo,2019,"95,000",Silver,Automatic,Gasoline,"540,000"
+Speranza M11,2011,"300,000",Black,Manual,Gasoline,"200,000"
+Hyundai Elantra MD,2012,"131,000",Silver,Automatic,Gasoline,"635,000"
+Daihatsu Terios,2013,"65,000",White,Automatic,Gasoline,"800,000"
+Nissan Centra,2025,"8,000",Red,Automatic,Gasoline,"950,000"
+MG ZS,2021,"34,000",Blue,Automatic,Gasoline,"975,000"
+Hyundai Tucson GDI,2019,"125,000",Brown,Automatic,Gasoline,"1,375,000"
+Hyundai Elantra CN7,2022,"49,000",Petroleum,Automatic,Gasoline,"1,300,000"
+Honda Civic,2017,"106,000",Dark Red,Automatic,Gasoline,"1,180,000"
+BYD F3,2023,"5,000",Black,Manual,Gasoline,"540,000"
+KIA Picanto,2013,"93,000",Red,Automatic,Gasoline,"525,000"
+KIA Sorento,2024,"6,900",White,Automatic,Gasoline,"2,885,000"
+Renault Kadjar,2020,"119,000",White,Automatic,Gasoline,"995,000"
+MG HS,2021,"100,000",White,Automatic,Gasoline,"1,175,000"
+KIA Cerato,2024,95000,Silver,Automatic,Gasoline,"1,430,000"
+Mercedes E Class,2025,95000,Green,Automatic,Gasoline,"6,000,000"
+Hyundai Elantra MD,2013,"110,000",Dark Red,Automatic,Gasoline,"690,000"
+Nissan Sunny,2017,"160,000",Black,Automatic,Gasoline,"510,000"
+Hyundai Elantra,2023,"34,894",Gray,Automatic,Gasoline,"976,000"
+Hyundai Elantra,2023,"4,609",White,Automatic,Gasoline,"992,000"
+Skoda Superb,2022,"95,000",Dark Grey,Automatic,Gasoline,"1,960,000"
+Jetour X70 Plus,2022,"25,000",Black,Automatic,Gasoline,"1,130,000"
+Land Rover Range Rover Sport,2016,"105,000",Silver,Automatic,Gasoline,"3,600,000"
+Nissan Sunny,2008,"300,000",Silver,Automatic,Gasoline,"380,000"
+Peugeot 3008,2025,95000,White,Automatic,Gasoline,"1,900,000"
+KIA K3,2024,"5,970",Silver,Automatic,Gasoline,"879,000"
+Renault Megane,2020,"171,200",Red,Automatic,Gasoline,"1,200,000"
+Peugeot 301,2021,"56,500",Black,Automatic,Gasoline,"790,000"
+Nissan Sunny,2024,"3,000",Silver,Automatic,Gasoline,"800,000"
+BMW 320,2023,"29,000",Silver,Automatic,Gasoline,"2,950,000"
+Nissan Qashqai,2021,"60,000",Dark Blue,Automatic,Gasoline,"1,300,000"
+Haval Jolion,2022,"113,000",Silver,Automatic,Gasoline,"1,060,000"
+Speranza A516,2009,"149,000",Black,Automatic,Gasoline,"285,000"
+KIA Sporatge,2021,"445,000",Black,Automatic,Gasoline,"1,795,000"
+Renault Sandero Step Way,2017,"97,000",Blue,Automatic,Gasoline,"590,000"
+Ford Fiesta,2019,"130,000",Black,Automatic,Gasoline,"725,000"
+Volkswagen Passat,2022,"4,300",Silver,Automatic,Gasoline,"2,300,000"
+Opel Vectra,2008,"264,000",Black,Automatic,Gasoline,"415,000"
+Mercedes C 200,2023,"13,000",Black,Automatic,Gasoline,"3,600,000"
+Hyundai Elantra MD,2012,"165,000",Silver,Automatic,Gasoline,"695,000"
+Mitsubishi Lancer EX Shark,2016,"215,000",Dark Red,Automatic,Gasoline,"745,000"
+Mercedes C 200,2022,"60,000",Black,Automatic,Gasoline,"3,200,000"
+Peugeot 5008,2021,"97,000",Red,Automatic,Gasoline,"1,775,000"
+MG Rx5,2019,"120,000",Black,Automatic,Gasoline,"960,000"
+Volkswagen Jetta,2012,"274,000",Black,Automatic,Gasoline,"750,000"
+KIA Cerato,2018,"126,000",Black,Automatic,Gasoline,"760,000"
+Opel Astra,2015,"209,000",Green,Automatic,Gasoline,"620,000"
+Hyundai l10,2009,"5,000",Silver,Automatic,Gasoline,"570,000"
+Toyota Corolla,2020,"103,000",Silver,Automatic,Gasoline,"1,125,000"
+Hyundai lX 35,2016,"150,000",Dark Red,Automatic,Gasoline,"1,030,000"
+Peugeot 3008,2020,"85,000",Gray,Automatic,Gasoline,"1,530,000"
+Hyundai Elantra CN7,2021,"55,000",Red,Automatic,Gasoline,"1,290,000"
+Toyota Hilux,2023,95000,White,Automatic,Gasoline,"2,200,000"
+Skoda Kodiaq,2023,"5,000",Gray,Automatic,Gasoline,"2,700,000"
+Mitsubishi Lancer EX Shark,2018,"134,000",Silver,Automatic,Gasoline,"735,000"
+Chevrolet Cruze,2016,"170,000",Black,Automatic,Gasoline,"600,000"
+Mercedes B 180,2021,"54,053",White,Automatic,Gasoline,"1,950,000"
+KIA Cerato,2018,"126,784",Dark Blue,Automatic,Gasoline,"850,000"
+Skoda Kodiaq,2020,"122,278",Black,Automatic,Gasoline,"2,040,000"
+Jeep Cherokee,2011,"188,730",Black,Automatic,Gasoline,"930,000"
+Toyota Corolla,2018,"176,664",Gray,Automatic,Gasoline,"867,000"
+Jac JS4,2022,"42,619",Red,Automatic,Gasoline,"840,000"
+Seat Leon,2020,"136,714",Red,Automatic,Gasoline,"1,326,000"
+Audi A5,2018,"133,675",Dark Red,Automatic,Gasoline,"1,836,000"
+Jeep Grand Cherokee,2021,"111,138",Black,Automatic,Gasoline,"3,670,000"
+Jeep Grand Cherokee,2022,"61,541",Gray,Automatic,Gasoline,"3,800,000"
+Fiat Tipo,2021,"125,927",Silver,Automatic,Gasoline,"796,000"
+BMW X1,2014,"155,227",Dark Grey,Automatic,Gasoline,"1,020,000"
+MG ZS,2020,"219,000",Red,Automatic,Gasoline,"850,000"
+Hyundai Verna,2012,"206,000",Silver,Manual,Gasoline,"345,000"
+Skoda Octivia A7,2015,"242,000",Silver,Automatic,Gasoline,"860,000"
+Mitsubishi Lancer EX Shark,2016,"215,000",Dark Red,Automatic,Gasoline,"735,000"
+Citroen C4 Grand Picasso,2020,"80,000",White,Automatic,Gasoline,"1,150,000"
+MG ZS,2020,"72,000",Black,Automatic,Gasoline,"825,000"
+Daewoo Nubria 2,2009,"118,000",Gold,Manual,Gasoline,"305,000"
+Ford Focus,2018,"164,000",Dark Grey,Automatic,Gasoline,"760,000"
+KIA Sorento,2021,"60,000",Dark Grey,Automatic,Gasoline,"2,050,000"
+Subaru XV,2018,"200,000",White,Automatic,Gasoline,"1,150,000"
+Mercedes E 200,2024,"8,000",Black,Automatic,Gasoline,"4,700,000"
+Citroen C3,2020,"62,000",Silver,Automatic,Gasoline,"750,000"
+Ford Focus,2018,"164,000",Dark Grey,Automatic,Gasoline,"760,000"
+Skoda Fantasia,2013,"125,000",Black,Automatic,Gasoline,"770,000"
+Chery Tiggo 3,2017,"86,000",Black,Automatic,Gasoline,"550,000"
+Peugeot 508,2020,"120,000",White,Automatic,Gasoline,"1,375,000"
+MG 5,2022,"43,000",Blue,Automatic,Gasoline,"850,000"
+Suzuki Van,2022,"40,000",Red,Manual,Gasoline,"349,000"
+Chery Tiggo 7,2023,"73,000",Silver,Automatic,Gasoline,"955,000"
+Chevrolet Optra,2016,"240,000",Dark Grey,Automatic,Gasoline,"475,000"
+BMW 528,2011,"225,000",Dark Blue,Automatic,Gasoline,"1,300,000"
+MG 5,2022,"60,000",Blue,Automatic,Gasoline,"930,000"
+Chery Tiggo 7,2022,"47,000",Dark Red,Automatic,Gasoline,"830,000"
+Nissan Qashqai,2019,"120,000",Mocha,Automatic,Gasoline,"930,000"
+Xpeng G9,2024,"1,000",Black,Automatic,Gasoline,"3,325,000"
+KIA Picanto,2009,"230,000",Gray,Automatic,Gasoline,"450,000"
+KIA Sporatge,2020,"70,000",Red,Automatic,Gasoline,"1,675,000"
+Toyota Corolla,2022,"66,000",Petroleum,Automatic,Gasoline,"1,320,000"
+Hyundai Elantra CN7,2021,"78,000",Black,Automatic,Gasoline,"1,250,000"
+Chevrolet Optra,2023,"62,000",Dark Red,Automatic,Gasoline,"710,000"
+Ford Focus,2017,"96,000",Champange,Automatic,Gasoline,"735,000"
+Jeep Renegade,2021,"127,000",Gray,Automatic,Gasoline,"1,230,000"
+Mercedes GLC 200,2020,"66,000",White,Automatic,Gasoline,"3,600,000"
+KIA Grand Cerato,2019,"125,000",Black,Automatic,Gasoline,"1,050,000"
+Nissan Qashqai,2017,"80,000",Red,Automatic,Gasoline,"860,000"
+Hyundai Tucson GDI,2019,"68,000",Dark Grey,Automatic,Gasoline,"1,600,000"
+Volkswagen Passat,2021,"139,000",Cyan,Automatic,Gasoline,"1,810,000"
+KIA Grand Cerato,2022,"125,000",Dark Grey,Automatic,Gasoline,"1,149,000"
+Hyundai Creta,2017,"150,000",Silver,Automatic,Gasoline,"900,000"
+KIA Grand Cerato,2024,500,Silver,Automatic,Gasoline,"1,410,000"
+KIA Sol,2014,"10,000",Silver,Automatic,Gasoline,"855,000"
+MG 5,2021,"130,000",Silver,Automatic,Gasoline,"750,000"
+Toyota Corolla,2008,"156,000",Gray,Automatic,Gasoline,"675,000"
+Nissan Sunny,2022,"50,000",Black,Automatic,Gasoline,"595,000"
+Chevrolet Lanos,2014,"80,000",Silver,Manual,Gasoline,"395,000"
+Suzuki Ciaz,2022,"17,000",Silver,Automatic,Gasoline,"870,000"
+Chery Arrizo 5,2021,"48,000",Eggplant,Automatic,Gasoline,"660,000"
+Toyota Corolla,2018,"130,000",Black,Automatic,Gasoline,"960,000"
+Renault Symbol,2009,"250,000",Silver,Manual,Gasoline,"225,000"
+Fiat Tipo,2021,"10,000",Black,Automatic,Gasoline,"950,000"
+Volkswagen Passat,2009,"200,000",Black,Automatic,Gasoline,"575,000"
+Nissan Centra,2019,"100,000",Gold,Automatic,Gasoline,"720,000"
+Peugeot 3008,2011,"215,000",Silver,Automatic,Gasoline,"540,000"
+BYD F3,2025,"4,000",Dark Red,Automatic,Gasoline,"650,000"
+Hyudai Accent RB,2025,37,dark Grey,Automatic,Gasoline,"970,000"
+Nissan Qashqai,2018,"120,000",White,Automatic,Gasoline,"950,000"
+Mercedes C 180,2023,"6,600",Gray,Automatic,Gasoline,"3,000,000"
+Hyundai Tucson Turbo GDI,2025,25,Dark Blue,Automatic,Gasoline,"2,300,000"
+Ssang Yong Torres,2024,95000,Silver,Automatic,Gasoline,"2,225,000"
+KIA Sorento,2023,"135,000",Silver,Automatic,Hybrid,"2,270,000"
+Mercedes E 200,2021,"35,000",Black,Automatic,Gasoline,"3,700,000"
+MG 5,2022,"20,000",Silver,Automatic,Gasoline,"795,000"
+Opel Corsa,2016,"163,000",Silver,Automatic,Gasoline,"570,000"
+Peugeot 2008,2017,"153,000",Black,Automatic,Gasoline,"670,000"
+Opel Grandland,2019,"100,000",Dark Grey,Automatic,Gasoline,"1,185,000"
+Jeep Renegade,2019,"102,000",Red,Automatic,Gasoline,"1,120,000"
+Jeep Renegade,2017,"90,000",White,Automatic,Gasoline,"1,120,000"
+BMW 520,2016,"130,000",Silver,Automatic,Gasoline,"1,680,000"
+Nissan Sunny,2015,"111,000",Silver,Automatic,Gasoline,"575,000"
+Cupra Formentor,2024,"18,000",Petroleum,Automatic,Gasoline,"2,350,000"
+Volkswagen Passat,2022,"20,000",White,Automatic,Gasoline,"2,275,000"
+Suzuki Swift,2024,95000,Dark Blue,Automatic,Gasoline,"875,000"
+Opel Corsa,2022,"45,000",Dark Grey,Automatic,Gasoline,"975,000"
+Nissan Juke,2012,"138,000",White,Automatic,Gasoline,"750,000"
+Skoda Kodiaq,2024,80000,White,Automatic,Gasoline,"3,050,000"
+Toyota Land Cruiser,2022,80000,White,Automatic,Gasoline,"9,200,000"
+Hyundai Viva,2008,"200,000",Silver,Manual,Gasoline,"260,000"
+Fiat Tipo,2022,"24,000",Gray,Automatic,Gasoline,"920,000"
+Hyundai Tucson,2025,80000,White,Automatic,Gasoline,"2,600,000"
+Hyundai Elantra CN7,2022,"54,000",Dark Green,Automatic,Gasoline,"1,320,000"
+Mercedes E 200,2015,"162,000",Black,Automatic,Gasoline,"2,300,000"
+Peugeot 2008,2019,"81,000",Red,Automatic,Gasoline,"970,000"
+Skoda Kodiaq,2024,80000,Blue,Automatic,Gasoline,"2,900,000"
+Volkswagen Passat,2010,"151,000",Silver,Automatic,Gasoline,"675,000"
+Mitsubishi Xpander Cross,2024,500,White,Automatic,Gasoline,"1,450,000"
+Nissan Juke,2022,"60,000",Gray,Automatic,Gasoline,"1,035,000"
+Mitsubishi Lancer EX Shark,2015,"100,000",Black,Automatic,Gasoline,"720,000"
+Chevrolet Aveo,2020,"80,000",Silver,Automatic,Gasoline,"549,000"
+Nissan Sunny,2022,"80,000",Dark Grey,Automatic,Gasoline,"670,000"
+Chery Tiggo 8,2021,"21,000",Black,Automatic,Gasoline,"1,100,000"
+Mercedes E 200,2014,"216,000",Silver,Automatic,Gasoline,"2,100,000"
+MG 6,2022,"63,000",Black,Automatic,Gasoline,"1,030,000"
+Hyundai H1,2011,"250,000",White,Manual,Diesel,"440,000"
+Nissan Sunny,2022,"45,000",Red,Automatic,Diesel,"575,000"
+KIA Rio,2015,"235,000",Red,Automatic,Diesel,"660,000"
+Land Rover Discovery,2021,"4,000",White,Automatic,Hybrid,"3,250,000"
+Skoda Kodiaq,2025,80000,Black,Automatic,Hybrid,"2,700,000"
+BYD F3,2010,"145,000",White,Manual,Hybrid,"225,000"
+Chery Arrizo 5,2023,"49,000",Red,Automatic,Hybrid,"700,000"
+KIA K8,2022,"17,000",White,Automatic,Hybrid,"3,000,000"
+Chevrolet Optra,2022,"122,000",Silver,Automatic,Hybrid,"650,000"
+KIA Sorento,2025,80000,Black,Automatic,Hybrid,"3,250,000"
+Geely Okavango,2022,"66,000",Silver,Automatic,Hybrid,"1,200,000"
+KIA Picanto,2010,"200,000",White,Automatic,Hybrid,"460,000"
+KIA Sorento,2024,"6,900",White,Automatic,Hybrid,"2,885,000"
+Hyundai Santa Fe,2024,"5,690",White,Automatic,Hybrid,"2,034,000"
+Hyundai Santa Fe,2024,"4,819",White,Automatic,Hybrid,"2,107,000"
+Hyundai Santa Fe,2024,"10,490",White,Automatic,Hybrid,"2,071,000"
+KIA Sporatge,2023,"34,379",White,Automatic,Hybrid,"1,519,000"
+KIA Sporatge,2023,"12,000",Gray,Automatic,Hybrid,"1,512,000"
+KIA Sorento,2022,"30,000",Blue,Automatic,Hybrid,"2,300,000"
+Nissan Xtrail,2024,"10,500",Red,Manual,Hybrid,"2,600,000"
+KIA Carnival,2024,63000,White,Automatic,Hybrid,"3,850,000"
+Mercedes E 200,2020,"56,000",White,Automatic,Hybrid,"2,600,000"
+Mercedes GLC 300,2021,"72,000",White,Automatic,Hybrid,"4,250,000"
+KIA Sorento,2024,63000,White,Automatic,Hybrid,"4,300,000"
+Jeep Compass,2023,"24,000",White,Automatic,Hybrid,"2,050,000"
+Renault Logan,2020,"60,000",Red,Manual,Gasoline,"449,000"
+Geely Emgrand 7,2014,"110,000",Red,Manual,Gasoline,"295,000"
+Chevrolet Lanos,2016,"300,000",Dark Grey,Manual,Gasoline,"340,000"
+Geely Emgrand 7,2015,"270,000",White,Manual,Gasoline,"285,000"
+Fiat Tipo,2020,"146,000",Brown,Manual,Gasoline,"490,000"
+Renault Logan,2013,"280,000",Dark Grey,Manual,Gasoline,"299,000"
+BMW 740,2019,"47,000",Dark Grey,Manual,Gasoline,"4,700,000"
+Lada Granta,2020,"70,000",Dark Grey,Manual,Gasoline,"340,000"
+Hyundai Verna,2014,"180,000",Dark Red,Manual,Gasoline,"280,000"
+BYD F3,2020,"200,000",Black,Manual,Gasoline,"320,000"
+Chevrolet Lanos,2018,"127,000",Blue,Manual,Gasoline,"190,000"
+Renault Logan,2017,"85,000",Silver,Manual,Gasoline,"400,000"
+Chery Arrizo 5,2021,"170,000",Silver,Manual,Gasoline,"575,000"
+Fiat Tipo,2021,"120,000",White,Manual,Gasoline,"650,000"
+BYD F3,2018,"217,000",Blue,Manual,Gasoline,"360,000"
+Chevrolet Lanos,2013,"100,000",Black,Manual,Gasoline,"255,000"
+Geely Emgrand 7,2018,"130,000",Dark Blue,Manual,Gasoline,"420,000"
+Nissan Sunny,2013,"164,000",Black,Manual,Gasoline,"400,000"
+Hyundai Verna,2017,"140,000",White,Manual,Gasoline,"480,000"
+Skoda Octavia A8,2022,"140,000",White,Manual,Gasoline,"1,750,000"
+Hyundai Verna,2013,"170,000",Champange,Manual,Gasoline,"350,000"
+Chevrolet Aveo,2013,"63,000",Drak Grey,Manual,Gasoline,"350,000"
+Hyundai Verna,2015,"345,000",White,Manual,Gasoline,"350,000"
+Chevrolet Aveo,2013,"400,000",Black,Manual,Gasoline,"335,000"
+Renault Logan,2021,"90,000",Gold,Manual,Gasoline,"480,000"
+Xpeng G9,2024,"1,000",Black,Automatic,Electric,"3,325,000"
+Volkswagen ID 6,2024,63000,White,Automatic,Electric,"2,500,000"
+Mercedes EQB 260,2024,"3,000",Silver,Automatic,Electric,"2,600,000"
+Mercedes EQA,2024,800,Black,Automatic,Electric,"2,325,000"
+Jac JS4,2019,"41,000",Red,Automatic,Electric,"1,200,000"
+BMW XI3,20224,"6,200",White,Automatic,Electric,"3,600,000"
+Mercedes EQE,2024,63000,Black,Automatic,Electric,"3,900,000"
+Mercedes EQE,2023,"8,000",White,Automatic,Electric,"5,150,000"
+BMW X3 M,2022,"17,000",Blue,Automatic,Electric,"2,900,000"
+Volkswagen ID 6,2024,63000,Dark Blue,Automatic,Electric,"2,300,000"
+Tesla Model Y,2021,"97,000",Petroleum,Automatic,Electric,"2,600,000"
+Volkswagen ID 4,2023,63000,Silver,Automatic,Electric,"1,885,000"
+BMW I3,2024,63000,Black,Automatic,Electric,"2,485,000"
+Volkswagen ID 4,2023,"18,000",Silver,Automatic,Electric,"1,875,000"
+BMW IX3,2024,"1,400",Black,Automatic,Electric,"3,050,000"
+Tesla Model 3,2023,"10,000",Red,Automatic,Electric,"3,400,000"
+Volkswagen ID 4,2024,100,Gray,Automatic,Electric,"2,250,000"
+Mercedes EQA,2024,63000,Black,Automatic,Electric,"2,400,000"
+Tesla Model 3,2022,"37,000",White,Automatic,Electric,"2,200,000"
+BMW I3,2024,"6,300",Blue,Automatic,Electric,"2,300,000"
+Volkswagen Passat,2010,"151,000",Silver,Automatic,Gasoline,"675,000"
+Baic X3,2022,"26,000",White,Automatic,Gasoline,"850,000"
+Nissan Sunny,2014,"134,000",Gold,Automatic,Gasoline,"515,000"
+KIA Sorento,2023,"13,500",Silver,Automatic,Hybrid,"2,270,000"
+KIA Sorento,2025,63000,Black,Automatic,Gasoline,"3,260,000"
+Hyundai Elantra CN7,2022,"79,000",Dark Red,Automatic,Gasoline,"1,270,000"
+Land Rover Velar,2024,"35,000",Gray,Automatic,Gasoline,"5,700,000"
+BMW 318,2019,"78,000",Silver,Automatic,Gasoline,"1,525,000"
+Jeep Renegade,2021,"33,000",Red,Automatic,Gasoline,"1,500,000"
+Skoda Kodiaq,2020,"92,000",Black,Automatic,Gasoline,"1,800,000"
+Skoda Superb,2022,"105,000",Silver,Automatic,Gasoline,"1,950,000"
+BMW X1,2014,"227,000",Silver,Automatic,Gasoline,"990,000"
+Mercedes E 200,2023,"30,000",Black,Automatic,Gasoline,"4,400,000"
+Jeep Grand Cherokee,2021,"40,000",Dark Grey,Automatic,Gasoline,"4,000,000"
+Chery Tiggo 7,2022,"15,000",Dark Grey,Automatic,Gasoline,"955,000"
+Citroen C5 Aircross,2023,"50,000",Silver,Automatic,Gasoline,"1,720,000"
+Citroen C4,2024,10,White,Automatic,Gasoline,"1,700,000"
+Mercedes GLC 300,2025,63000,White,Automatic,Gasoline,"5,500,000"
+BMW 328,2015,"155,000",Black,Automatic,Gasoline,"1,400,000"
+Volkswagen Teramont,2024,63000,White,Automatic,Gasoline,"6,000,000"
+Volkswagen Passat,2019,"70,000",White,Automatic,Gasoline,"1,400,000"
+Mercedes E 250,2017,22000,Black,Automatic,Gasoline,"3,800,000"
+Honda Odyssey,2018,"80,000",Black,Automatic,Gasoline,"2,950,000"
+Chery Tiggo 3,2023,36000,Blue,Automatic,Gasoline,"760,000"
+Jeep Grand Cherokee,2011,"52,000",Red,Automatic,Gasoline,"1,300,000"
+Mercedes CLA 200,2022,70000,Silver,Automatic,Gasoline,"2,380,000"
+Skoda Kodiaq,2019,"106,000",Gray,Automatic,Gasoline,"1,650,000"
+MG Rx5,2019,90000,Black,Automatic,Gasoline,"950,000"
+Renault Kadjar,2019,"107,000",White,Automatic,Gasoline,"1,190,000"
+Fiat Tipo,2020,250000,Dark Red,Manual,Gasoline,"500,000"
+Hyundai Elantra AD,2020,"80,000",Gold,Automatic,Gasoline,"860,000"
+Skoda Octivia A8,2022,43000,Blue,Automatic,Gasoline,"1,550,000"
+Seat Lbiza,2021,"130,000",Blue,Automatic,Gasoline,"1,070,000"
+Opel Astra,2016,"140,000",Gray,Automatic,Gasoline,"715,000"
+Mercedes C 180,2024,63000,Black,Automatic,Gasoline,"4,000,000"
+MG 5,2022,"115,000",Black,Automatic,Gasoline,"760,000"
+Nissan Sunny,2016,"300,000",Black,Automatic,Gasoline,"445,000"
+Toyota Yaris,2017,"115,000",White,Automatic,Gasoline,"675,000"
+Ssang Yong Tivoil XLV,2018,"97,000",Silver,Automatic,Gasoline,"795,000"
+Speranza A113,2009,"161,000",Dark Blue,Manual,Gasoline,"150,000"
+KIA Ceed,2016,"178,000",Eggplant,Automatic,Gasoline,"680,000"
+Suzuki Ciaz,2024,"6,000",Silver,Automatic,Gasoline,"840,000"
+Chery Tiggo 7,2023,"18,900",Dark Grey,Automatic,Gasoline,"930,000"
+KIA Sporatge,2014,"138,000",Silver,Automatic,Gasoline,"970,000"
+KIA Picanto,2008,"179,000",Black,Automatic,Gasoline,"395,000"
+MG 6,2022,"59,000",White,Automatic,Gasoline,"1,085,000"
+Toyota Corolla,2022,"60,000",Petroleum,Automatic,Gasoline,"1,145,000"
+Hyundai Elantra AD,2019,"70,000",Black,Automatic,Gasoline,"945,000"
+Hyundai Elantra HD,2021,"65,000",Silver,Automatic,Gasoline,"1,000,000"
+Subaru XV,2017,"190,000",Blue,Automatic,Gasoline,"1,000,000"
+BMW 116,2009,"270,000",Red,Automatic,Gasoline,"660,000"
+Hyundai Tucson GDI,2019,"95,000",White,Automatic,Gasoline,"1,440,000"
+MG 5,2021,"106,000",Silver,Automatic,Gasoline,"755,000"
+BYD L3,2022,"165,000",Silver,Automatic,Gasoline,"510,000"
+KIA Sporatge,2020,"85,000",Dark Blue,Automatic,Gasoline,"1,570,000"
+Hyundai Elantra HD,2017,"145,000",Silver,Automatic,Gasoline,"675,000"
+KIA Picanto,2015,"70,000",Silver,Automatic,Gasoline,"535,000"
+Mitsubishi Lancer EX Shark,2015,"120,000",Black,Automatic,Gasoline,"660,000"
+Ssang Yong Torres,2024,"4,000",White,Automatic,Gasoline,"1,900,000"
+KIA Cerato,2011,"200,000",Red,Automatic,Gasoline,"665,000"
+Hyundai Elantra HD,2020,"80,000",Bronze,Automatic,Gasoline,"700,000"
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
